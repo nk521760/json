@@ -25,7 +25,7 @@
     "enable_dark_mode_as_default_theme": false
   },
   "ads": {
-    "ad_status": true,
+    "ad_status": false,
     "main_ads": "admob",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
@@ -59,7 +59,7 @@
     "wortise_interstitial_ad_unit_id": "test-interstitial",
     "wortise_native_ad_unit_id": "test-native",
     "wortise_app_open_ad_unit_id": "test-app-open",
-    "interstitial_ad_interval": 3,
+    "interstitial_ad_interval": 5,
     "native_ad_index": 3,
     "native_ad_style_post_list": "medium",
     "native_ad_style_post_details": "large",
